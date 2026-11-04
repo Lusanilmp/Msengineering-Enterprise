@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /portal/
+Disallow: /api/
+Sitemap: https://msengineers.co.za/sitemap.xml
